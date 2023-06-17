@@ -5,14 +5,13 @@ In the initial days I didn't have a laptop or pc. So, I learned python on a mobi
 I am a Bachelor's of Arts English Hons final year student. My 6th exam is starting from 26th June, 2023.  I am looking for a full time job as a frontend developer.  
 
 # Skills   
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,tailwind,vscode,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react,tailwind,vscode,git,github,vite)](https://skillicons.dev)
 
 
 # Interest  
 - Watching Anime
 - Reading Manga 
 - Listening to Music 
-- Favourite fruit : Grape 
 
 # I hate  
 - People who lies often
