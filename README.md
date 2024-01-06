@@ -2,8 +2,6 @@
 
 🚀 Aspiring Software Engineer | FrontEnd Developer | React.js Enthusiast
 
-🎓 Currently pursuing a Bachelor's degree in English Hons 📚
-
 💡 Passionate about web development and building cool projects.
 
 🌐 My tech stack:
